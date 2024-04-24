@@ -1,6 +1,9 @@
 <?php include('header.php') ?>
 <?php include('connect.php') ?>
-<h2>Students</h2>
+<div id="container">
+    <h2 >Students</h2>
+    <button type="button" id="addButton" onclick="insert.php">ADD</button>
+</div>
 <table class="table table-hover table-bordered table-striped">
     <thead>
         <tr>

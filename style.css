@@ -7,3 +7,17 @@
     padding: 8px;
 
 }
+#container{
+    display: flex;
+    /* flex-direction: row; */
+    align-items: center;
+    /* justify-content: space-between; */
+}
+#addButton {
+    margin-left: auto; /* Push the button to the right */
+    padding-inline: 50px;
+    padding-block: 20px;
+    margin-bottom: 4px;
+    border-radius: 10px;
+    background-color: burlywood;
+}
