@@ -21,3 +21,11 @@
     border-radius: 10px;
     background-color: burlywood;
 }
+#stu-added{
+    color: aquamarine;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 8px;
+    padding-top: 8px;
+}
